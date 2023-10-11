@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/create-a-health-bar-that-hovers-over-the-player-with-ui-toolkit/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # Create a health bar that hovers over the player with UI Toolkit
 
